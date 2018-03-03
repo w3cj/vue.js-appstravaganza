@@ -19,11 +19,11 @@
   * [x] Watch todos for changes and save to localStorage
   * [x] Load todos from localStorage on page load
 * Reddit Client
-  * [ ] Generate App with Router
-  * [ ] Add Bootswatch
-  * [ ] fetch posts from reddit
-  * [ ] Add posts to page
-    * [ ] Make it look kind of like reddit!
+  * [x] Generate App with Router
+  * [x] Add Bootswatch
+  * [x] fetch posts from reddit
+  * [x] Add posts to page
+    * [x] Make it look kind of like reddit!
   * [ ] Add favorite button to post
   * [ ] Add favorites page to show favorites
   * [ ] Save favorites to localStorage
