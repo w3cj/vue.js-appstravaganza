@@ -2,14 +2,12 @@
 
 * What is Vue.js?
 * Player Score Counter
-  * [ ] Generate Simple App
-  * [ ] Add Bootswatch
-  * [ ] Up Button For Player 1
-  * [ ] Down Button For Player 1
-  * [ ] Up Button For Player 2
-  * [ ] Down Button For Player 2
-  * [ ] Watch scores for changes and save to localStorage
-  * [ ] Load scores from localStorage on page load
+  * [x] Generate Simple App
+  * [x] Add Bootswatch
+  * [x] Up Button For Player 1
+  * [x] Down Button For Player 1
+  * [x] Up Button For Player 2
+  * [x] Down Button For Player 2
 * Todo App
   * [ ] Generate Simple App
   * [ ] Add Bootswatch
