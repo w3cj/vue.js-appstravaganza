@@ -2,7 +2,7 @@
   <div class="hello mt-3">
     <ul class="list-unstyled">
       <li v-for="post in posts" class="media m-3">
-        <img class="mr-3" :src="post.data.thumbnail" alt="Generic placeholder image">
+        <img class="mr-3" :src="post.data.thumbnail" :alt="post.data.title">
         <div class="media-body">
           <h5 class="mt-0 mb-1"><a :href="createUrl(post.data.permalink)" target="_blank">{{post.data.title}}</a></h5>
           <p>
